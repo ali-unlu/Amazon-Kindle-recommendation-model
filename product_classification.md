@@ -338,7 +338,7 @@ final_lasso %>%
 
 # Final review
 
-With a sufficient coding efforts, I produced pretty good results. The accuracy score is 0.946 and roc acuracy is 0.851. As stated above, with more words and trying stemming and lemmatization manipulations, the accuracy might be increased. It is also worth to test other models, such as randon forest. 
+With a sufficient coding efforts, I produced pretty good results. The accuracy score is 0.950 and roc acuracy is 0.872. As stated above, with more words and trying stemming and lemmatization manipulations, the accuracy might be increased. It is also worth to test other models, such as randon forest. 
 
 
 
