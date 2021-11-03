@@ -9,3 +9,5 @@ Basically, this analysis includes.
 3. Tunning. 
 4. Identifying the predictor importance. 
 5. Model validation. 
+
+To see the codes and graphs, please open md file or [click here.](https://github.com/ali-unlu/Amazon-Kindle-recommendation-model/blob/main/product_classification.md) 
