@@ -1,12 +1,3 @@
----
-title: "Predicting the Amazon Kindle Recommendation"
-author: "Ali Unlu"
-date: "11/3/2021"
-output: 
-  html_document: 
-    keep_md: yes
----
-
 
 
 # Aim
